@@ -2,7 +2,7 @@ title: QMK Configurator
 email: itsdrdick@gmail.com
 show_downloads: true
 description: QMK for potatoes - an open source configurator for QMK Firmware (only the AVR boards right now)
-baseurl: "/qmk_configurator/tree/gh-pages"
+baseurl: "/qmk_configurator"
 url: "http://itsdrdick.github.io"
 github_username: itsdrdick
 repository: itsdrdick/qmk_configurator
